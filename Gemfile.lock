@@ -12,11 +12,7 @@ GEM
     figaro (1.1.1)
       thor (~> 0.14)
     gli (2.13.4)
-    httparty (0.13.5)
-      json (~> 1.8)
-      multi_xml (>= 0.5.2)
     json (1.8.3)
-    multi_xml (0.5.5)
     multipart-post (2.0.0)
     slack-ruby-client (0.5.3)
       faraday
@@ -35,7 +31,6 @@ PLATFORMS
 DEPENDENCIES
   faye-websocket (~> 0.10.2)
   figaro (~> 1.1.1)
-  httparty (~> 0.13.5)
   slack-ruby-client (~> 0.5.3)
 
 BUNDLED WITH

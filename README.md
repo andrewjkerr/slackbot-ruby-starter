@@ -1,14 +1,14 @@
-## anouncebot-slack
+## slackbot-ruby-starter
 
-A slackbot to `POST` announcements to an [announcebot-server](https://github.com/andrewjkerr/announcebot-server).
+A starter kit for writing Slackbots in Ruby!
 
 ## Usage
 
-`.announce #{announcement}`
+¯\\\_(ツ)_/¯
 
 ## Installing
 
-1. Clone this respository `git clone https://github.com/andrewjkerr/announcebot-slack.git`
+1. Clone this respository `git clone https://github.com/andrewjkerr/slackbot-ruby-starter.git`
 2. `bundle install`
 3. Rename `config/application.sample.yml` to `config/application.yml` and add your values
-4. `ruby announcebot.rb`
+4. `ruby bot.rb`
